@@ -1,0 +1,9 @@
+{
+  "posts": [
+    { "id": 1, "title": "Bienvenue sur Nouno Tech", "body": "Voici mon premier post API personnalisé" }
+  ],
+  "profile": {
+    "name": "Nouno Tech",
+    "type": "Chaîne YouTube"
+  }
+}
